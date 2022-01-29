@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\bin\Debug\201602538_Tienda.exe.config
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\bin\Debug\201602538_Tienda.exe
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\bin\Debug\201602538_Tienda.pdb
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\bin\Debug\201602538_Tienda.xml
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\obj\Debug\201602538_Tienda.vbproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\obj\Debug\201602538_Tienda.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\obj\Debug\_201602538_Tienda.Form1.resources
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\obj\Debug\_201602538_Tienda.Resources.resources
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\obj\Debug\201602538_Tienda.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\obj\Debug\201602538_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\obj\Debug\201602538_Tienda.exe
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\obj\Debug\201602538_Tienda.xml
+C:\Users\DELL\Desktop\Progra 2\201602538_Tienda\obj\Debug\201602538_Tienda.pdb
